@@ -7,3 +7,6 @@ This is my sample code for the Signature Verification Using Convolutional Siames
 * Pytorch Framework.
 * Visualization of results. 
 * custom loss function
+
+
+For Dataset refer to kaggle signature verification dataset
